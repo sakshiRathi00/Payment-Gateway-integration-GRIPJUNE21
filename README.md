@@ -1,4 +1,4 @@
-# Payment-Gateway-integration-Sparks-Foundation
+# Payment-Gateway-integration-GRIPJUNE21
 Spark foundation GRIPJUNE21 || Web and Mobile development || TASK3
 ## ABOUT PROJECT
 
